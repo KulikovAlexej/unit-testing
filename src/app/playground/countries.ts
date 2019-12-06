@@ -1,3 +1,3 @@
 export function countries() {
-  return ['RU', 'UA', 'BY']
+  return ['RU', 'UA', 'BY'];
 }
